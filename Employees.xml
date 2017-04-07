@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Pengumpulan Data="Karyawan" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="Employees.xsd">
+	
+	<id_karyawan>01</id_karyawan>
+	<nama_depan>Ana</nama_depan>
+	<nama_belakang>Walian</nama_belakang>
+	<alamat>Subang</alamat>
+	<email>anawalian@gmail.com</email>
+	<no_tlpn>+6287863892287</no_tlpn>
+	<tanggal_perekrutan>13 September 2008</tanggal_perekrutan>
+	<pekerjaan>CEO</pekerjaan>
+	<gaji satuan="dolar">30000</gaji>
+	<kantor nama="PT.Mualim">
+		<alamat>Jl. Pejuang No.17</alamat>
+	</kantor>
+	
+	<id_karyawan>02</id_karyawan>
+	<nama_depan>Legian</nama_depan>
+	<nama_belakang>Saptono</nama_belakang>
+	<alamat>Subang</alamat>
+	<email>legian_sap@gmail.com</email>
+	<no_tlpn>+6282113423546</no_tlpn>
+	<tanggal_perekrutan>11 November 2008</tanggal_perekrutan>
+	<pekerjaan>Programmer</pekerjaan>
+	<gaji satuan="dolar">15000</gaji>
+	<kantor nama="PT.Mualim">
+		<alamat>Jl. Pejuang No.17</alamat>
+	</kantor>
+	
+	<id_karyawan>03</id_karyawan>
+	<nama_depan>Amel</nama_depan>
+	<nama_belakang>Cantika</nama_belakang>
+	<alamat>Pamanukan</alamat>
+	<email>amel@gmail.com</email>
+	<no_tlpn>+6282110435678</no_tlpn>
+	<tanggal_perekrutan>25 November 2008</tanggal_perekrutan>
+	<pekerjaan>Finance Manager</pekerjaan>
+	<gaji satuan="dolar">10000</gaji>
+	<kantor nama="PT.Mualim">
+		<alamat>Jl. Pejuang No.17</alamat>
+	</kantor>
+	
+	<id_karyawan>04</id_karyawan>
+	<nama_depan>Arief</nama_depan>
+	<nama_belakang>Fatzal</nama_belakang>
+	<alamat>Subang</alamat>
+	<email>apey@gmail.com</email>
+	<no_tlpn>+6282398756748</no_tlpn>
+	<tanggal_perekrutan>7 Desember 2008</tanggal_perekrutan>
+	<pekerjaan>Marketing</pekerjaan>
+	<gaji satuan="dolar">8000</gaji>
+	<kantor nama="PT.Mualim">
+		<alamat>Jl. Pejuang No.17</alamat>
+	</kantor>
+	
+	<id_karyawan>05</id_karyawan>
+	<nama_depan>Putri</nama_depan>
+	<nama_belakang>Wulansari</nama_belakang>
+	<alamat>Bekasi</alamat>
+	<email>wulansari@gmail.com</email>
+	<no_tlpn>+6285473867578</no_tlpn>
+	<tanggal_perekrutan>7 April 2009</tanggal_perekrutan>
+	<pekerjaan>Accounting</pekerjaan>
+	<gaji satuan="dolar">7000</gaji>
+	<kantor nama="PT.Mualim">
+		<alamat>Jl. Pejuang No.17</alamat>
+	</kantor>
+	
+</Pengumpulan>
